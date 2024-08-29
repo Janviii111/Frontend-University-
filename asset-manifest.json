@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Janviii111/University-website-Frontend.git/static/css/main.a7ff7e89.css",
+    "main.js": "/Janviii111/University-website-Frontend.git/static/js/main.70bb0a4b.js",
+    "static/js/453.55cc3f1b.chunk.js": "/Janviii111/University-website-Frontend.git/static/js/453.55cc3f1b.chunk.js",
+    "static/media/campus.jpg": "/Janviii111/University-website-Frontend.git/static/media/campus.3760f8748a5f11a2f26b.jpg",
+    "index.html": "/Janviii111/University-website-Frontend.git/index.html",
+    "main.a7ff7e89.css.map": "/Janviii111/University-website-Frontend.git/static/css/main.a7ff7e89.css.map",
+    "main.70bb0a4b.js.map": "/Janviii111/University-website-Frontend.git/static/js/main.70bb0a4b.js.map",
+    "453.55cc3f1b.chunk.js.map": "/Janviii111/University-website-Frontend.git/static/js/453.55cc3f1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7ff7e89.css",
+    "static/js/main.70bb0a4b.js"
+  ]
+}
